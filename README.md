@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Adama THIAM 👋
 
-<!--
-**THIAM-Adama/THIAM-Adama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Assistant Chef de Projet IT & Business Analyst Junior
+* 🎓 Student in **Bachelor 3 MCSI** (Management et Conseil en Systèmes d'Information) @ ESGI Paris
+* 💻 Background: **Web & Mobile Development** (RNCP Level 5 / Bac+2)
+* 🚀 Passionate about Agile Methodologies, Functional Analysis, and Digital Transformation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical & Functional Skills
+- **Functional Analysis & PM:** UML, Merise, Agile Scrum, User Stories, Requirements Specifications
+- **Development & DB:** PHP (Laravel), Java, Python, SQL (MySQL, SQLite), JavaScript, HTML5/CSS3, Tailwind
+- **Tools:** Git/GitHub, Figma, Trello, Docker, VS Code, Microsoft Office
+
+---
+
+### 📌 Featured Projects
+- **[SchoolRDV_Project](https://github.com/THIAM-Adama/SchoolRDV_Project):** Web application for school appointment management (Laravel, Merise, Figma).
+- **[ShopMarket](https://github.com/THIAM-Adama/Shopmarket):** E-commerce platform with Laravel API backend & Flutter mobile client.
+- **[Portfolio](https://github.com/THIAM-Adama/Portfolio_Adama):** Personal portfolio website.
+
+📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/thiam10) | adathiam12zz@gmail.com
