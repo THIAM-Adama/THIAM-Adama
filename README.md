@@ -1,7 +1,7 @@
 # Bonjour, je suis Adama THIAM 👋
 
 ### 🎯 Développeur Web & Mobile | Assistant Chef de Projet IT
-* 🎓 Étudiant en **Bachelor 3** (Ingénierie, Management et Conseil des Systémes d'informations) à l'ESGI Paris 🗼
+* 🎓 Étudiant en **Bachelor 3** 
 * 💻 Titulaire d'un **Bac+2 DWWM** (Développeur Web et Web Mobile, RNCP niveau 5)
 * 🔎 À la recherche d'une **alternance 2026-2027** (1 semaine en formation / 3 semaines en entreprise)
 * 🚀 Intéressé par les méthodes Agile, l'analyse fonctionnelle et l'adoption des outils d'IA
